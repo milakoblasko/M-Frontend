@@ -7,3 +7,6 @@ M-Frontend for serving another frontend host
 yarn install
 yarn start
 ```
+# Hacktoberfest 2021
+
+We are open for Hacktoberfest 2021, please feel free to contribute into this repository.
