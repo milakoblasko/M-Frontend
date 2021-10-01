@@ -1,5 +1,5 @@
 import React from 'react';
 
-const MicrofrontendAsComponent = () => <div>Microfrontend as a Component</div>;
+const MfrontendAsComponent = () => <div>Mfrontend as a Component</div>;
 
-export default MicrofrontendAsComponent;
+export default MfrontendAsComponent;
