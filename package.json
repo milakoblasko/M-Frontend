@@ -1,8 +1,8 @@
 {
-  "name": "microfrontend",
+  "name": "mfrontend",
   "version": "1.0.0",
-  "description": "Microfrontend Host",
-  "repository": "https://github.com/milakoblasko/microfrontend.git",
+  "description": "Mfrontend Host",
+  "repository": "https://github.com/milakoblasko/M-Frontend.git",
   "author": "Retzd",
   "license": "MIT",
   "scripts": {
